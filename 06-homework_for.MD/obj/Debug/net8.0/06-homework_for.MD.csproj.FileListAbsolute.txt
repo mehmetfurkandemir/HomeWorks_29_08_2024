@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\bin\Debug\net8.0\06-homework_for.MD.exe
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\bin\Debug\net8.0\06-homework_for.MD.deps.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\bin\Debug\net8.0\06-homework_for.MD.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\bin\Debug\net8.0\06-homework_for.MD.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\bin\Debug\net8.0\06-homework_for.MD.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\06-homework_for.MD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\06-homework_for.MD.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\06-homework_for.MD.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\06-homework_for.MD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\06-homework_for.MD.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\refint\06-homework_for.MD.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\06-homework_for.MD.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\06-homework_for.MD.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\06-homework_for.MD\obj\Debug\net8.0\ref\06-homework_for.MD.dll

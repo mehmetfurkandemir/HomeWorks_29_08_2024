@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\bin\Debug\net8.0\03-datetime-methods-homework.exe
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\bin\Debug\net8.0\03-datetime-methods-homework.deps.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\bin\Debug\net8.0\03-datetime-methods-homework.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\bin\Debug\net8.0\03-datetime-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\bin\Debug\net8.0\03-datetime-methods-homework.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\03-datetime-methods-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\03-datetime-methods-homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\03-datetime-methods-homework.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\03-datetime-methods-homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\03-datetime-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\refint\03-datetime-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\03-datetime-methods-homework.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\03-datetime-methods-homework.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\03-datetime-methods-homework\obj\Debug\net8.0\ref\03-datetime-methods-homework.dll

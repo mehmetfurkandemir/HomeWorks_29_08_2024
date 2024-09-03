@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\bin\Debug\net8.0\01-string-methods-homework.exe
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\bin\Debug\net8.0\01-string-methods-homework.deps.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\bin\Debug\net8.0\01-string-methods-homework.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\bin\Debug\net8.0\01-string-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\bin\Debug\net8.0\01-string-methods-homework.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\01-string-methods-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\01-string-methods-homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\01-string-methods-homework.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\01-string-methods-homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\01-string-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\refint\01-string-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\01-string-methods-homework.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\01-string-methods-homework.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\01-string-methods-homework\obj\Debug\net8.0\ref\01-string-methods-homework.dll

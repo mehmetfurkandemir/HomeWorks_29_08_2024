@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\bin\Debug\net8.0\02-number-methods-homework.exe
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\bin\Debug\net8.0\02-number-methods-homework.deps.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\bin\Debug\net8.0\02-number-methods-homework.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\bin\Debug\net8.0\02-number-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\bin\Debug\net8.0\02-number-methods-homework.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\02-number-methods-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\02-number-methods-homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\02-number-methods-homework.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\02-number-methods-homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\02-number-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\refint\02-number-methods-homework.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\02-number-methods-homework.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\02-number-methods-homework.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\02-number-methods-homework\obj\Debug\net8.0\ref\02-number-methods-homework.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\bin\Debug\net8.0\05-if-else-homework2.MD.exe
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\bin\Debug\net8.0\05-if-else-homework2.MD.deps.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\bin\Debug\net8.0\05-if-else-homework2.MD.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\bin\Debug\net8.0\05-if-else-homework2.MD.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\bin\Debug\net8.0\05-if-else-homework2.MD.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\05-if-else-homework2.MD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\05-if-else-homework2.MD.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\05-if-else-homework2.MD.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\05-if-else-homework2.MD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\05-if-else-homework2.MD.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\refint\05-if-else-homework2.MD.dll
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\05-if-else-homework2.MD.pdb
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\05-if-else-homework2.MD.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\HomeWorks_29_08_2024\05-if-else-homework2.MD\obj\Debug\net8.0\ref\05-if-else-homework2.MD.dll
