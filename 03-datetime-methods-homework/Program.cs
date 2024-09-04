@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        #region 1 haftanın hangi günü
+        #region 1) haftanın hangi günü
             //Console.WriteLine("Tarih giriniz: ");
 
             /* DateTime time = DateTime.Now;
@@ -12,13 +12,13 @@ class Program
 
 
         #endregion
-        #region 2 datetime now
+        #region 2) datetime now
 
         //DateTime zaman = DateTime.Now;
         //Console.WriteLine(zaman);
             
         #endregion
-        #region 3 tarih ekleme timespan +
+        #region 3) tarih ekleme timespan
         //Console.WriteLine("Tarih giriniz: ");
 
         //DateTime kullanicininTarihi = DateTime.Parse(Console.ReadLine());
@@ -26,7 +26,7 @@ class Program
         //Console.WriteLine($"5 gün eklenmiş hâli: {toplamTarih}");
 
         #endregion
-        #region 4 tarih farkı +
+        #region 4) tarih farkı
 
         //Console.WriteLine("İlk tarihi giriniz :");
         //DateTime ilkTarih = DateTime.Parse(Console.ReadLine());
@@ -39,29 +39,38 @@ class Program
         //Console.WriteLine("İki tarih arasındaki gün farkı: " + gunFarki);
             
         #endregion
-        #region 5 yılın kaçıncı günü ?
-        //Console.WriteLine("Tarih giriniz: (GG.AA.YYYY) ");
+        #region 5) yılın kaçıncı günü
 
-        //DateTime kullanicininTarihi = new DateTime();
-        //int kullanicininGunu = kullanicininTarihi.Day;
-        //Console.WriteLine($"Girdiğiniz tarihin günü: {kullanicininGunu}");
+/* 
+        DateTime time = DateTime.Now;
+        Console.WriteLine(time.DayOfYear); */
 
         #endregion
-        #region 6 kontrol ?
-        //Kullanıcıdan alınan bir tarihin yılın kaçıncı günü olduğunu hesaplayan bir program yazın.
-        //Soruyu anlamadım
+        #region 6) kontrol
 
-        //Console.WriteLine("Bir yıl giriniz:");
+        /* DateTime time = DateTime.Now;
+        bool leap = DateTime.IsLeapYear(time.Year);
+        string a=leap ? "artık yıl":"artık yıl değildir";
+        Console.WriteLine(a); */
+
             
         #endregion
-        #region 7 datetime object (DateTime.ParseExact Method) -
+        #region 7) datetime object (try catch)
 
-        //Console.WriteLine("Herhangi bir formatta tarih giriniz: ");
+        /* try {
+            Console.Write("Tarih giriniz");
+        DateTime time = DateTime.Parse(Console.ReadLine());
+        Console.WriteLine(time.ToString("dd/MM/yyyy"));
+        
+        }catch(Exception ex){
+            Console.WriteLine($"girmiş olduğunuz tarih geçerli değildir. {ex.Message}" );
+        }finally{
+            Console.WriteLine("Ne olursa olsun çalışacak blok");
+        } */
 
-        //DateTime girilenTarih = DateTime.TryParseExact(Console.ReadLine());
             
         #endregion
-        #region 8 Ay adını yazdırmak +
+        #region 8) Ay adını yazdırmak
 
         //DateTime day = DateTime.Now;
 
@@ -70,11 +79,21 @@ class Program
         //Console.WriteLine(ayAdi);
             
         #endregion
-        #region 9 -
+        #region 9) Compare
+
+            /* DateTime time = new DateTime(2000,12,15);
+            DateTime time2 = new DateTime(2020,12,15);
+
+            int a = DateTime.Compare(time, time2);
+            Console.WriteLine(a); */
+            
+            
             
         #endregion
-        #region 10 -
-            
+        #region 10) 12 - 24 formatı
+            //DateTime time = new DateTime(2021,12,15,12,00,00,00);
+            //time.AddMilliseconds(1);
+            //Console.WriteLine(time.ToString("dd/MM/yyyy HH:mm tt"));
         #endregion
     }
 }
